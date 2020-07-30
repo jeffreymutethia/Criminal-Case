@@ -1,0 +1,2 @@
+# Criminal-Case
+A program that re-engineers the beloved ‘Criminal Case’ game by giving the player a series of objects on the screen.  The player seeks to solve puzzles related to the objects on the screen. After solving a puzzle, our player is directed to click on another object. This recurs until all the puzzles have been solved and the criminal case has been decoded. The puzzle includes figuring out a password, playing some music notes, and finding objects on the screen. 
