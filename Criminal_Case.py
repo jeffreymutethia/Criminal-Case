@@ -1,3 +1,10 @@
+ """
+Criminal case by:
+Jeff Mutethia
+Ahmed Elsayed
+Nadr Elhelu
+Credits given to graphics.py and playsound.py .""")
+  
 from graphics import *
 import random
 from button import Button
@@ -47,13 +54,7 @@ def Credits():
      """
      credit = GraphWin("Credits", 600 , 600)
      credit.setBackground("black")
-     Credits_label = Text(Point(credit.getWidth()/2,123), """
-This project was done by:
-Ahmed Elsayed
-Nadr Elhelu
-Jeff Mutethia 
-It was part of CS-167 project.
-Credits given to graphics.py and playsound.py .""")
+     Credits_label = Text(Point(credit.getWidth()/2,123),
      
      Credits_label.setSize(18)
      Credits_label.setTextColor("white")
